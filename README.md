@@ -1,3 +1,7 @@
+# Overview
+
+This project aims to create fair ML classifiers with regard to specific sensitive features.
+
 # **Note**:
 
 1. The code for solving the fair classification task using cross validation is given in train_model.py and test_res.py
